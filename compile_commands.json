@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/git/c2rust_test",
+  "command": "/usr/bin/cc     -o CMakeFiles/sim.dir/C/sim.c.o   -c /mnt/c/git/c2rust_test/C/sim.c",
+  "file": "/mnt/c/git/c2rust_test/C/sim.c"
+},
+{
+  "directory": "/mnt/c/git/c2rust_test",
+  "command": "/usr/bin/cc     -o CMakeFiles/lib.dir/C/lib.c.o   -c /mnt/c/git/c2rust_test/C/lib.c",
+  "file": "/mnt/c/git/c2rust_test/C/lib.c"
+}
+]
